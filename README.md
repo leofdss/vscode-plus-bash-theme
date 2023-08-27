@@ -1,0 +1,1 @@
+# vscode-plus-bash-theme
